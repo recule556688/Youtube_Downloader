@@ -28,7 +28,9 @@ version_file_path = base_dir / "assets" / "version.txt"
 # Auto update function
 def update_app():
     # GitHub API URL for your repository
-    api_url = "https://api.github.com/repos/recule556688/Projet_Perso/releases/latest"
+    api_url = (
+        "https://api.github.com/repos/recule556688/Youtube_Downloader/releases/latest"
+    )
 
     # Get the latest release info
     response = requests.get(api_url)
