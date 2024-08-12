@@ -66,7 +66,7 @@ Here's a list of the Python packages you'll need:
 ### 1. 📥 Clone the repository to your local machine
 
 ```bash
-git clone https://github.com/recule556688/Projet_Perso.git
+git clone https://github.com/recule556688/Youtube_Downloader.git
 ```
 
 ### 2. 🗂️ Navigate to the project directory
